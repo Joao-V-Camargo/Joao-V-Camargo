@@ -19,19 +19,6 @@ Sou estudante de Desenvolvimento Web Front-End, com experiência em HTML, CSS e 
 
 <div>
 
-#### Outros sites...
-
-LandingPages: <br>
-[![Bea Pet]()](https://beapetcenter.com.br/cirurgias/) <br>
-[![Crismann Móveis (LP)]()](http://www.crismannmoveis.com.br/arquitetos/) <br>
-[![Giani Parmi]()](http://gianiparmi.com.br/) <br>
-
-Institucionais:<br>
-[![Bauer Imobiliária]()](https://bauerimob.com.br) <br>
-[![Semente da Terra]()](https://sementedaterra.com.br/) <br>
-
-
-
 ### Contatos:
 
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaovitorcamargo21891@gmail.com)
